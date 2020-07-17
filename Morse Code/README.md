@@ -1,0 +1,1 @@
+The code in this repo is so that you are able to put any string you want into the "ourstring" variable and it cconverts it into morse code and flashes an arduino Led. The flashing occurs through the serial port using python. Since it is a serial port, there isnt 100% control. In the future I intend to make connection wireless, which will result in greater efficiency.
